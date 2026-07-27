@@ -1,6 +1,6 @@
 # FengPlot Foundry
 
-FengPlot Foundry packages the scientific figure-making habits developed in the Zhu Feng research group into a Codex-oriented workflow.
+FengPlot Foundry packages the scientific figure-making habits developed in my research group into a Codex-oriented workflow.
 
 ![Random Matplotlib SVG panels converted into an editable PowerPoint figure](assets/demo-flow.png)
 
