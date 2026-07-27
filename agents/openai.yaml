@@ -1,0 +1,4 @@
+interface:
+  display_name: "FengPlot Foundry"
+  short_description: "Forge Matplotlib SVG panels into editable scientific PPTX"
+  default_prompt: "Use $fengplot-foundry to generate standardized Matplotlib SVG panels, assemble existing panels into a fully editable PowerPoint, or run both stages end to end."

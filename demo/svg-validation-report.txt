@@ -1,0 +1,115 @@
+{
+  "svg_dir": "skills/fengplot-foundry/demo/svg-panels",
+  "panel_count": 9,
+  "panels": [
+    {
+      "file": "panel-01.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        468.0,
+        432.0
+      ],
+      "text_count": 13,
+      "image_count": 0,
+      "title": "a. Ligand atom count"
+    },
+    {
+      "file": "panel-02.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        468.0,
+        432.0
+      ],
+      "text_count": 14,
+      "image_count": 0,
+      "title": "b. QED distribution"
+    },
+    {
+      "file": "panel-03.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        468.0,
+        432.0
+      ],
+      "text_count": 14,
+      "image_count": 0,
+      "title": "c. Pocket residues"
+    },
+    {
+      "file": "panel-04.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        468.0,
+        432.0
+      ],
+      "text_count": 12,
+      "image_count": 0,
+      "title": "d. Pocket volume"
+    },
+    {
+      "file": "panel-05.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        576.0,
+        388.8
+      ],
+      "text_count": 16,
+      "image_count": 0,
+      "title": "e. Training loss"
+    },
+    {
+      "file": "panel-06.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        432.0,
+        475.2
+      ],
+      "text_count": 9,
+      "image_count": 0,
+      "title": "f. RMSD relationship"
+    },
+    {
+      "file": "panel-07.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        547.2,
+        432.0
+      ],
+      "text_count": 19,
+      "image_count": 0,
+      "title": "g. Correlation heatmap"
+    },
+    {
+      "file": "panel-08.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        604.8,
+        453.6
+      ],
+      "text_count": 18,
+      "image_count": 0,
+      "title": "h. Hierarchical clustering"
+    },
+    {
+      "file": "panel-09.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        468.0,
+        432.0
+      ],
+      "text_count": 16,
+      "image_count": 0,
+      "title": "i. Calibration curves"
+    }
+  ],
+  "errors": []
+}

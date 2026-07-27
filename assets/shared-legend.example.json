@@ -1,0 +1,32 @@
+{
+  "font_size": 72,
+  "marker_size": 0.42,
+  "marker_gap": 0.22,
+  "item_gap": 0.85,
+  "items": [
+    {
+      "label": "Method A",
+      "aliases": ["A"],
+      "color": "#7B61A8",
+      "marker": "circle"
+    },
+    {
+      "label": "Method B",
+      "aliases": ["B"],
+      "color": "#159D82",
+      "marker": "circle"
+    },
+    {
+      "label": "Method C",
+      "aliases": ["C"],
+      "color": "#E6A532",
+      "marker": "circle"
+    },
+    {
+      "label": "Method D",
+      "aliases": ["D"],
+      "color": "#3D4756",
+      "marker": "circle"
+    }
+  ]
+}

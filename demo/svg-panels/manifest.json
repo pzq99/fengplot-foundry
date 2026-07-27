@@ -1,0 +1,51 @@
+{
+  "seed": 20260727,
+  "panel_count": 9,
+  "panels": [
+    {
+      "index": 1,
+      "file": "panel-01.svg",
+      "generator": "panel_a"
+    },
+    {
+      "index": 2,
+      "file": "panel-02.svg",
+      "generator": "panel_b"
+    },
+    {
+      "index": 3,
+      "file": "panel-03.svg",
+      "generator": "panel_c"
+    },
+    {
+      "index": 4,
+      "file": "panel-04.svg",
+      "generator": "panel_d"
+    },
+    {
+      "index": 5,
+      "file": "panel-05.svg",
+      "generator": "panel_e"
+    },
+    {
+      "index": 6,
+      "file": "panel-06.svg",
+      "generator": "panel_f"
+    },
+    {
+      "index": 7,
+      "file": "panel-07.svg",
+      "generator": "panel_g"
+    },
+    {
+      "index": 8,
+      "file": "panel-08.svg",
+      "generator": "panel_h"
+    },
+    {
+      "index": 9,
+      "file": "panel-09.svg",
+      "generator": "panel_i"
+    }
+  ]
+}

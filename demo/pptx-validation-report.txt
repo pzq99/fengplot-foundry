@@ -1,0 +1,11 @@
+Canvas: 56.0 x 56.0 in
+Objects: {'sp': 706, 'grpSp': 9}
+Editable panel groups: 9
+Left-aligned panel titles: 9
+Common axes anchors: 5
+Common axes size classes: 1
+Shared legend items: 0
+Category proxy markers: 0
+Font levels: [48.0, 60.0, 76.0, 120.0]
+Embedded media: []
+VALID: native editable large-format PPTX
